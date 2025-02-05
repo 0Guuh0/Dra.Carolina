@@ -1,5 +1,5 @@
-# New-Repository
+# Projeto_Dra. 🦷
 
-Criando uma pagina para uma dra. apenas usando HTML e CSS. Mesmo com poucas linguagens, embutir planilhas com sites de fora
+Criando uma pagina para uma dra. apenas usando HTML e CSS. Mesmo com poucas linguagens conseguir planilhas de dados com sites de fora
 
-**`link`**: https://dr-carolina.netlify.app
+### **`link`**: https://dr-carolina.netlify.app
